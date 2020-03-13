@@ -99,7 +99,7 @@
       <workItem from="1583748869391" duration="4991000" />
       <workItem from="1583810850476" duration="1206000" />
       <workItem from="1583893468647" duration="1618000" />
-      <workItem from="1584097130193" duration="1806000" />
+      <workItem from="1584097130193" duration="2550000" />
     </task>
     <task id="LOCAL-00001" summary="idea整合GitHUb测试">
       <created>1584097911667</created>
@@ -108,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584097911667</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="idea整合GitHUb测试">
+      <created>1584103173613</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584103173613</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,14 +126,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="idea整合GitHUb测试" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="312" y="88" key="#Deployment" timestamp="1584103164704">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="88" key="#Deployment/0.0.1440.860@0.0.1440.860" timestamp="1584103164704" />
     <state x="566" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584097660066">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="566" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.860@0.0.1440.860" timestamp="1584097660066" />
-    <state x="359" y="23" key="CommitChangelistDialog2" timestamp="1584097910453">
+    <state x="359" y="23" key="CommitChangelistDialog2" timestamp="1584103172793">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="359" y="23" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1584097910453" />
+    <state x="359" y="23" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1584103172793" />
+    <state x="136" y="68" key="DiffContextDialog" timestamp="1584103541783">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="136" y="68" key="DiffContextDialog/0.0.1440.860@0.0.1440.860" timestamp="1584103541783" />
     <state x="500" y="171" key="FileChooserDialogImpl" timestamp="1584098332740">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -135,10 +150,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="221" y="72" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1584097647926" />
-    <state x="312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1584098215586">
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1584103661740">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="312" y="163" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1584098215586" />
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1584103661740" />
   </component>
   <component name="masterDetails">
     <states>
