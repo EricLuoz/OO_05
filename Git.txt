@@ -1,0 +1,4 @@
+1、git config --global user.name 'EricLuoz'
+2、git config --global user.name '603890242@qq.com'
+3、 git init
+4、
