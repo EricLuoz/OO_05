@@ -1,37 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1e9e49f-c8ba-4b2b-a2f9-2119db8d4d7a" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Git.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OO_03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OO_03/ControlPanel$CloseFrameHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OO_03/ControlPanel$MoveDownHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OO_03/ControlPanel$MoveLeftHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OO_03/ControlPanel$MoveRightHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OO_03/ControlPanel$MoveUpHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OO_03/ControlPanel$SquatHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OO_03/ControlPanel$StandupHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OO_03/ControlPanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OO_03/DrawingPanelForArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OO_03/ImgHelper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OO_03/MyFrame$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OO_03/MyFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OO_03/Rect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OO_03/StarterForArraySquat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OO_03/stickman_squating.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OO_03/stickman_standing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControlPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DrawingPanelForArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImgHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StarterForArraySquat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stickman_squating.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stickman_standing.png" afterDir="false" />
+    <list default="true" id="a1e9e49f-c8ba-4b2b-a2f9-2119db8d4d7a" name="默认的" comment="idea整合GitHUb测试">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +29,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Z4SyeCsXZZvcfeLJgM63gRsazM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -68,6 +40,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
@@ -121,26 +99,46 @@
       <workItem from="1583748869391" duration="4991000" />
       <workItem from="1583810850476" duration="1206000" />
       <workItem from="1583893468647" duration="1618000" />
-      <workItem from="1584097130193" duration="518000" />
+      <workItem from="1584097130193" duration="1806000" />
     </task>
+    <task id="LOCAL-00001" summary="idea整合GitHUb测试">
+      <created>1584097911667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584097911667</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="idea整合GitHUb测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea整合GitHUb测试" />
   </component>
   <component name="WindowStateProjectService">
     <state x="566" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584097660066">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="566" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.860@0.0.1440.860" timestamp="1584097660066" />
-    <state x="500" y="171" key="FileChooserDialogImpl" timestamp="1584097737468">
+    <state x="359" y="23" key="CommitChangelistDialog2" timestamp="1584097910453">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="500" y="171" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1584097737468" />
+    <state x="359" y="23" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1584097910453" />
+    <state x="500" y="171" key="FileChooserDialogImpl" timestamp="1584098332740">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="171" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1584098332740" />
     <state x="221" y="72" key="SettingsEditor" timestamp="1584097647926">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="221" y="72" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1584097647926" />
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1584098215586">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1584098215586" />
   </component>
   <component name="masterDetails">
     <states>
